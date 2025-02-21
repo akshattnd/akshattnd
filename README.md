@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on **MERN stack** 
 - **Frontend**: React, Redux, Material-UI, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, GitHub, VS Code, Docker
+- **Tools**: Git, GitHub, VS Code
 
 ## 💻 Projects
 
