@@ -17,10 +17,10 @@ A clone of the Threads app using MERN-stack, with features like authentication, 
 A simple yet effective to-do list app to manage tasks and improve productivity.
 ### [Weather App](https://github.com/akshattnd/weatherApp)
 A simple yet effective weather fetching app to get real-time weather according to the provided location.
+### [Sorting Visualizer](https://github.com/akshattnd/Sorting-algorithm-visualizer)
+A simple yet effective sorting algorithm visualizer enable user to understand algorithms in visual manner.
 
 ## 📫 How to reach me
 - **Email**: [akshattandon940@gmail.com](mailto:akshattandon940@gmail.com)
 - **LinkedIn**: [linkedin.com/in/akshat-tandon-a29190242](https://linkedin.com/in/akshat-tandon-a29190242/)
 
-## ⚡ Fun Fact
-I love watching anime, playing games, and reading books!
