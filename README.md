@@ -4,7 +4,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on **MERN stack** 
 
 ## 🚀 Skills
 - **Languages**:Java, JavaScript, TypeScript, HTML, CSS
-- **Frontend**: React, Redux, Material-UI, Tailwind CSS,Nextjs
+- **Frontend**: React, Redux, Material-UI, Tailwind CSS, Nextjs
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, VS Code
