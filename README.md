@@ -1,10 +1,10 @@
 # Hi there, I'm Akshat Tandon 👋
 
-I'm a passionate **Full-Stack Developer** with a strong focus on **MERN stack** development. I love creating web applications using **React**, **Node.js**, **Express**, and **MongoDB**. Currently, I am working on building projects to improve my skills in web development.
+I'm a aspiring **Full-Stack Developer** with a strong focus on **MERN stack** development. I love creating web applications using **React**, **Node.js**, **Express**, and **MongoDB**. Currently, I am working on building projects to improve my skills in web development.
 
 ## 🚀 Skills
 - **Languages**:Java, JavaScript, TypeScript, HTML, CSS
-- **Frontend**: React, Redux, Material-UI, Tailwind CSS, Nextjs
+- **Frontend**: React, Redux, ShadCn, Tailwind CSS, Nextjs
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, VS Code
