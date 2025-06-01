@@ -22,5 +22,5 @@ A simple yet effective sorting algorithm visualizer enable user to understand al
 
 ## 📫 How to reach me
 - **Email**: [akshattandon940@gmail.com](mailto:akshattandon940@gmail.com)
-- **LinkedIn**: [linkedin.com/in/akshat-tandon-a29190242](https://www.linkedin.com/in/akshattnd/)
+- **LinkedIn**: [https://www.linkedin.com/in/akshattnd/](https://www.linkedin.com/in/akshattnd/)
 
